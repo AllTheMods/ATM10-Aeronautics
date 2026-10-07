@@ -161,15 +161,6 @@ StartupEvents.modifyCreativeTab('ironfurnaces:ironfurnaces_tab', allthemods => {
     allthemods.add('ironfurnaces:upgrade_unobtainium')
 })
 
-StartupEvents.modifyCreativeTab('enderio:enderio', allthemods => {
-    allthemods.add('kubejs:modium_grinding_ball')
-    allthemods.add('kubejs:vibranium_grinding_ball')
-    allthemods.add('kubejs:unobtainium_grinding_ball')
-    allthemods.add('enderio:modial_capacitor')
-    allthemods.add('enderio:vibranic_capacitor')
-    allthemods.add('enderio:unobtained_capacitor')
-})
-
 StartupEvents.postInit((allthemods) => {
   $BuiltInRegistries.BLOCK.addAlias("kubejs:blaze_block", "allthecompressed:blaze_rod_block")
   $BuiltInRegistries.ITEM.addAlias("kubejs:blaze_block", "allthecompressed:blaze_rod_block")
@@ -239,6 +230,22 @@ StartupEvents.postInit((allthemods) => {
     if (!Platform.isLoaded('modular_machinery_reborn')) {
         $BuiltInRegistries.ITEM.addAlias("modular_machinery_reborn:modularium", "kubejs:modularium")
     }
+
+    $BuiltInRegistries.ITEM.addAlias("kubejs:modium_grinding_ball", "allthemodium:allthemodium_grinding_ball")
+    $BuiltInRegistries.ITEM.addAlias("kubejs:vibranium_grinding_ball", "allthemodium:vibranium_grinding_ball")
+    $BuiltInRegistries.ITEM.addAlias("kubejs:unobtainium_grinding_ball", "allthemodium:unobtainium_grinding_ball")
+    $BuiltInRegistries.ITEM.addAlias("enderio:modial_capacitor", "allthemodium:allthemodium_capacitor")
+    $BuiltInRegistries.ITEM.addAlias("enderio:vibranic_capacitor", "allthemodium:vibranium_capacitor")
+    $BuiltInRegistries.ITEM.addAlias("enderio:unobtained_capacitor", "allthemodium:unobtainium_capacitor")
+})
+
+const $ServerAboutToStartEvent = Java.loadClass("net.neoforged.neoforge.event.server.ServerAboutToStartEvent")
+const $EnderIORegistryKeys = Java.loadClass("com.enderio.enderio.api.EnderIORegistries$Keys")
+NativeEvents.onEvent($ServerAboutToStartEvent, event => {
+    const conduits = event.server.registryAccess().registryOrThrow($EnderIORegistryKeys.CONDUIT)
+    conduits.addAlias("enderio:allthemodium_energy", "allthemodium:allthemodium_energy")
+    conduits.addAlias("enderio:allthemodium_fluid", "allthemodium:allthemodium_fluid")
+    conduits.addAlias("enderio:allthemodium_item", "allthemodium:allthemodium_item")
 })
 
 
