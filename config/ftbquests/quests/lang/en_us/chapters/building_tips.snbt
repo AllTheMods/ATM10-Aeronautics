@@ -8,7 +8,7 @@
 	quest.005CC8A3325FE2BD.quest_desc: ["&bFroststeel&r, &7Cloggrum&r, and &eRegalium&r can be Mined for. \\n&cUtheric&r and &aForgotten&r you need to kill for. \\n\\nAny other questions?"]
 	quest.005CC8A3325FE2BD.title: "&2&lUndergarden&r Metals"
 	quest.01516BC726013B7C.quest_desc: ["This Quest has been authored by &6AllTheMods Staff&r, or a &2Community contributor&r for use in AllTheMods Modpacks.\\n\\nAs all &6AllTheMods&r packs are licensed under &eAll Rights Reserved&r, this Quest is not allowed to be used in any public packs not released by &6AllTheMods Team&r without explicit permission.\\n\\nThis quest is intentionally hidden, if you're seeing this, you're in editing mode."]
-	quest.027E6E294D9E1375.quest_desc: ["Take notes &lCorail&r! This is how you do Holidays! (I say this will 100% love, we love you &lCorail&r!) \\n\\nThis addition adds plenty of decorations for Christmas and Halloween. \\n\\nFrom Christmas Trees, Presents, and Lights for Christmas to Pumpkins, Spiders, and Witch Hats for Halloween."]
+	quest.027E6E294D9E1375.quest_desc: ["Take notes &lCorail&r! This is how you do Holidays! (I say this with 100% love, we love you &lCorail&r!) \\n\\nThis addition adds plenty of decorations for Christmas and Halloween. \\n\\nFrom Christmas Trees, Presents, and Lights for Christmas to Pumpkins, Spiders, and Witch Hats for Halloween."]
 	quest.027E6E294D9E1375.title: "&b&lMacaw's Holidays&r"
 	quest.034DB3C64F24C7B7.quest_desc: ["&6&lAllTheOres&r is a built in-house mod made to help unify ores.\\n\\nWith that comes a ton of very useful decorative blocks!\\n\\n&dFluorite&r and &9Sapphire&r both look very cool!"]
 	quest.034DB3C64F24C7B7.title: "&l&6AllTheOres&r Blocks"
@@ -53,7 +53,7 @@
 	quest.1FDC8725105D822A.quest_desc: ["The Kitchen holds many Blocks that can hold, preserve, and Cook Food! \\n\\nMost the Blocks that cook or prepare Food do need Energy, so check out the Electrical Set to learn more!"]
 	quest.1FDC8725105D822A.title: "Kitchen Set"
 	quest.2094D1CE4BA66091.quest_desc: ["Light is a very important part of any Base. \\n\\nIt keeps Monsters from Spawning, helps to see, and even adds more Color and life to your Builds! \\n\\nOr you can just use Night Vision but where's the fun in that!"]
-	quest.22D2CFDDB06C720C.quest_desc: ["Tools are very important in &2&lMinecraft&r but so is inventory space. So why not clear some space up by making a Paxel! \\nPaxels are a combination of Pickaxes (P), Axes (axe), and Shovels (els). \\n\\nThey can strip wood, make paths, and mine any blocks that same pickaxe/axe/shovel tier can!"]
+	quest.22D2CFDDB06C720C.quest_desc: ["Tools are very important in &2&lMinecraft&r but so is inventory space. So why not clear some space up by making a Paxel! \\nPaxels are a combination of Pickaxes (P), Axes (axe), and Shovels (els). \\n\\nThey can strip wood, make paths, and mine any blocks a pickaxe/axe/shovel of its tier can!"]
 	quest.22D2CFDDB06C720C.title: "Paxel"
 	quest.22E007025C19EC0A.quest_desc: ["&l&7Railcraft&r, along with Trains, adds some Stones for Decoration! \\n\\nQuarried and Abyssal Stone can be crafted together to make Polished, Chiseled, or Brick versions! \\n\\nAlso don't forget Stairs and Slabs! "]
 	quest.22E007025C19EC0A.title: "&l&7Railcraft&r Stones"
