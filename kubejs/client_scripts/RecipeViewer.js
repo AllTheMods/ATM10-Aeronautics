@@ -60,6 +60,10 @@ RecipeViewerEvents.removeEntriesCompletely('item', allthemods => {
     allthemods.remove('mekmm:empty_crystal')
     allthemods.remove('mekmm:uu_matter')
     allthemods.remove('mekmm:ambient_gas_collector')
+    allthemods.remove('mekmm:large_heat_generator')
+    allthemods.remove('mekmm:large_gas_burning_generator')
+    allthemods.remove('mekmm:solar_heat_generator')
+    allthemods.remove('mekmm:large_wind_generator')
     allthemods.remove(/mekmm:.*replicat.*/)
     allthemods.remove(/mekmm:.*recycl.*/)
     allthemods.remove(/mekmm:.*planting.*/)
@@ -116,6 +120,7 @@ RecipeViewerEvents.removeEntries('item', allthemods => {
         "ae2:creative_storage_cell",
         "mysticalagriculture:creative_soulium_dagger",
         "modularrouters:creative_module",
+        "modern_industrialization:replicator",
         "modern_industrialization:creative_tank",
         "modern_industrialization:creative_storage_unit",
         "pneumaticcraft:creative_upgrade",
