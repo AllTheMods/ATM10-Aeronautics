@@ -1,6 +1,6 @@
 {
-    "_comment": "Extreme Reactors 2 Language File - Portuguese (Brazil)",
-    "_comment": "@author SAMUELPV, PrincessStellar",
+    "_comment": "Extreme Reactors 2 Language File - English",
+    "_comment": "@author Erogenous Beef, ZeroNoRyouki, ABookFreak",
     "_comment": "-- please don't translate the _comment lines ! --",
 
     "itemGroup.bigreactors.general": "Extreme Reactors",
@@ -11,7 +11,7 @@
     "reactant.bigreactors.cyanite": "Cianita (reagente)",
     "reactant.bigreactors.blutonium": "Blutônio (reagente)",
     "reactant.bigreactors.magentite": "Magentita (reagente)",
-    "reactant.bigreactors.verderium": "Verderium (reagente)",
+    "reactant.bigreactors.verderium": "Verdério (reagente)",
     "reactant.bigreactors.rossinite": "Rossinita (reagente)",
     "coolant.bigreactors.water": "Água (refrigerante)",
     "vapor.bigreactors.steam": "Vapor (vapor)",
@@ -47,16 +47,16 @@
     "item.bigreactors.benitoite_crystal": "Benitoíta (BaTiSi3O9)",
 
     "_comment": "Items - miscellanea",
-    "item.bigreactors.wrench": "Chave Inglesa Extrema",
+    "item.bigreactors.wrench": "Chave-Inglesa Extrema",
     "item.bigreactors.steam_bucket": "Balde de Vapor",
     "item.bigreactors.yellorium_bucket": "Balde de Yellório",
     "item.bigreactors.cyanite_bucket": "Balde de Cianita",
     "item.bigreactors.blutonium_bucket": "Balde de Blutônio",
     "item.bigreactors.magentite_bucket": "Balde de Magentita",
-    "item.bigreactors.verderium_bucket": "Balde de Verderium",
+    "item.bigreactors.verderium_bucket": "Balde de Verdério",
     "item.bigreactors.rossinite_bucket": "Balde de Rossinita",
     "item.bigreactors.cryomisi_bucket": "Balde de Cryomisi",
-    "item.bigreactors.tangerium_bucket": "Balde de Tangerium",
+    "item.bigreactors.tangerium_bucket": "Balde de Tangério",
     "item.bigreactors.redfrigium_bucket": "Balde de Redfrigium",
     "item.bigreactors.raw_yellorium": "Yellório Bruto",
     "item.bigreactors.energycore": "Núcleo de Energia",
@@ -73,14 +73,14 @@
     "fluid.bigreactors.blutonium_flowing": "Blutônio",
     "fluid.bigreactors.magentite": "Magentita",
     "fluid.bigreactors.magentite_flowing": "Magentita",
-    "fluid.bigreactors.verderium": "Verderium",
-    "fluid.bigreactors.verderium_flowing": "Verderium",
+    "fluid.bigreactors.verderium": "Verdério",
+    "fluid.bigreactors.verderium_flowing": "Verdério",
     "fluid.bigreactors.rossinite": "Rossinita",
     "fluid.bigreactors.rossinite_flowing": "Rossinita",
     "fluid.bigreactors.cryomisi": "Cryomisi",
     "fluid.bigreactors.cryomisi_flowing": "Cryomisi",
-    "fluid.bigreactors.tangerium": "Tangerium",
-    "fluid.bigreactors.tangerium_flowing": "Tangerium",
+    "fluid.bigreactors.tangerium": "Tangério",
+    "fluid.bigreactors.tangerium_flowing": "Tangério",
     "fluid.bigreactors.redfrigium": "Redfrigium",
     "fluid.bigreactors.redfrigium_flowing": "Redfrigium",
 
@@ -97,8 +97,8 @@
     "block.bigreactors.insanite_block": "Bloco de Insanita",
 
     "_comment": "Blocks - ores",
-    "block.bigreactors.yellorite_ore": "Minério de Yellorita",
-    "block.bigreactors.deepslate_yellorite_ore": "Minério de Yellorita em Ardosiabissal",
+    "block.bigreactors.yellorite_ore": "Minério de Yellório",
+    "block.bigreactors.deepslate_yellorite_ore": "Minério de Yellório de Ardosiabissal",
     "block.bigreactors.anglesite_ore": "Minério de Anglesita",
     "block.bigreactors.benitoite_ore": "Minério de Benitoíta",
 
@@ -272,7 +272,7 @@
     "gui.bigreactors.reactor.controller.coolantbar.tooltip.value2a": "  @1",
     "gui.bigreactors.reactor.controller.coolantbar.tooltip.value2b": " / @2",
     "gui.bigreactors.reactor.controller.coolantbar.tooltip.value3a": "  @3",
-    "gui.bigreactors.reactor.controller.coolantbar.tooltip.value3b": "% cheio",
+    "gui.bigreactors.reactor.controller.coolantbar.tooltip.value3b": "% full (cheio)",
     "gui.bigreactors.reactor.controller.coolantbar.tooltip.body": "O calor do revestimento superaquecerá o refrigerante neste tanque e gerará vapor.",
 
     "gui.bigreactors.reactor.controller.vaporbar.tooltip.title": "Tanque de Fluido de Vapor",
@@ -280,7 +280,7 @@
     "gui.bigreactors.reactor.controller.vaporbar.tooltip.value2a": "  @1",
     "gui.bigreactors.reactor.controller.vaporbar.tooltip.value2b": " / @2",
     "gui.bigreactors.reactor.controller.vaporbar.tooltip.value3a": "  @3",
-    "gui.bigreactors.reactor.controller.vaporbar.tooltip.value3b": "% cheio",
+    "gui.bigreactors.reactor.controller.vaporbar.tooltip.value3b": "% full (cheio)",
     "gui.bigreactors.reactor.controller.vaporbar.tooltip.body": "O refrigerante superaquecido será bombeado para este tanque e deve ser extraído usando Portas de Fluido.",
 
     "gui.bigreactors.reactor.controller.vaporratio.tooltip.title": "Saída de Vapor",
@@ -309,10 +309,10 @@
     "gui.bigreactors.reactor.solidaccessport.directionoutput.tooltip.body": "Define a porta de acesso para o modo de saída.",
 
     "gui.bigreactors.reactor.solidaccessport.dumpfuel.tooltip.title": "Ejetar Combustível",
-    "gui.bigreactors.reactor.solidaccessport.dumpfuel.tooltip.body": "Ejeta o combustível contido no Reator, colocando as barras nas portas de acesso sólido do Reator.",
+    "gui.bigreactors.reactor.solidaccessport.dumpfuel.tooltip.body": "Ejeta o combustível contido no Reator, colocando os lingotes nas portas de acesso sólido do Reator.",
 
     "gui.bigreactors.reactor.solidaccessport.dumpwaste.tooltip.title": "Ejetar Resíduo",
-    "gui.bigreactors.reactor.solidaccessport.dumpwaste.tooltip.body": "Ejeta os resíduos contidos no Reator, colocando as barras nas portas de acesso sólido do Reator.",
+    "gui.bigreactors.reactor.solidaccessport.dumpwaste.tooltip.body": "Ejeta os resíduos contidos no Reator, colocando os lingotes nas portas de acesso sólido do Reator.",
 
     "gui.bigreactors.reactor.fluidaccessport.directioninput.tooltip.title": "Modo de Entrada",
     "gui.bigreactors.reactor.fluidaccessport.directioninput.tooltip.body": "Define a porta de injeção para o modo de entrada.",
@@ -453,7 +453,7 @@
     "gui.bigreactors.turbine.redstoneport.sensortype.inputflowregulator.whileon.label": "Com sinal:",
     "gui.bigreactors.turbine.redstoneport.sensortype.inputflowregulator.whileoff.label": "Sem sinal:",
     "gui.bigreactors.turbine.redstoneport.sensortype.inputflowregulator.setto.label": "Definir para:",
-    "gui.bigreactors.turbine.redstoneport.sensortype.inputflowregulator.settolevel.label": "Definir a taxa de fluxo com base na força do sinal (0 = 0% e 15 = 100%)",
+    "gui.bigreactors.turbine.redstoneport.sensortype.inputflowregulator.settolevel.label": "Definir a taxa de fluxo com base na força do sinal (0 = 0% até 15 = 100%)",
     "gui.bigreactors.turbine.redstoneport.sensortype.inputflowregulator.insertby.label": "Inserir por:",
     "gui.bigreactors.turbine.redstoneport.sensortype.inputflowregulator.retractby.label": "Retrair por:",
 
@@ -518,7 +518,7 @@
     "gui.bigreactors.energizer.powerport.directionoutput.tooltip.body": "Define esta Porta de Energia para o modo de saída.",
 
     "gui.bigreactors.generator.chargingport.eject.tooltip.title": "Ejeção Manual",
-    "gui.bigreactors.generator.chargingport.eject.tooltip.body": "Ejeta manualmente o item do slot de entrada e o coloca no slot de saída.",
+    "gui.bigreactors.generator.chargingport.eject.tooltip.body": "Ejeta manualmente o item do espaço de entrada e o coloca no espaço de saída.",
 
     "gui.bigreactors.generator.fluidport.directioninput.tooltip.title": "Modo de Entrada",
     "gui.bigreactors.generator.fluidport.directioninput.tooltip.body": "Define esta Porta de Fluido para o modo de entrada.",
@@ -608,7 +608,7 @@
 
     "config.bigreactors.general.fuelusagemultiplier": "Multiplicador de consumo de combustível",
     "config.bigreactors.general.powerproductionmultiplier": "Multiplicador de produção de energia",
-    "config.bigreactors.general.ticksperredstoneupdate": "Ticks por atualização das Portas de Redstone",
+    "config.bigreactors.general.ticksperredstoneupdate": "Tiques por atualização das Portas de Redstone",
 
     "config.bigreactors.reactor.maxreactorheight": "Altura máx. (Y)",
     "config.bigreactors.reactor.maxreactorsize": "Tamanho máx. (X/Z)",
@@ -624,7 +624,7 @@
 
     "config.bigreactors.fluidizer.maxfluidizerheight": "Altura máx. (Y)",
     "config.bigreactors.fluidizer.maxfluidizersize": "Tamanho máx. (X/Z)",
-    "config.bigreactors.fluidizer.energyperrecipetick": "Energia por tick de receita",
+    "config.bigreactors.fluidizer.energyperrecipetick": "Energia por tique de receita",
 
     "config.bigreactors.energizer.maxenergizerheight": "Altura máx. (Y)",
     "config.bigreactors.energizer.maxenergizersize": "Tamanho máx. (X/Z)",
@@ -633,10 +633,10 @@
     "config.bigreactors.recipes.registerCoalForSmelting": "Fundir carvão em grafite",
 
     "config.bigreactors.worldgen.enableworldgen": "Habilitar geração de mundo",
-    "config.bigreactors.worldgen.yelloriteoreenableworldgen": "Gerar Minério de Yellorita",
-    "config.bigreactors.worldgen.yelloriteoremaxclustersperchunk": "Número máx. de agregados de Minério de Yellorita por chunks",
-    "config.bigreactors.worldgen.yelloriteorepercluster": "Número máximo de Minérios de Yellorita por agregados",
-    "config.bigreactors.worldgen.yelloriteoremaxy": "Altura máxima do Minério de Yellorita",
+    "config.bigreactors.worldgen.yelloriteoreenableworldgen": "Gerar Minério de Yellório",
+    "config.bigreactors.worldgen.yelloriteoremaxclustersperchunk": "Número máx. de agregados de Minério de Yellório por chunks",
+    "config.bigreactors.worldgen.yelloriteorepercluster": "Número máximo de Minérios de Yellório por agregados",
+    "config.bigreactors.worldgen.yelloriteoremaxy": "Altura máxima do Minério de Yellório",
     "config.bigreactors.worldgen.anglesiteoreenableworldgen": "Gerar Minério de Anglesita",
     "config.bigreactors.worldgen.anglesiteoremaxclustersperchunk": "Número máx. de agregados de Minério de Anglesita por chunks",
     "config.bigreactors.worldgen.anglesiteorepercluster": "Número máximo de Minérios de Anglesita por agregados",
@@ -672,4 +672,3 @@
     "compat.bigreactors.jei.coolantmappings.recipecategory.title": "Fluido <=> Refrigerante",
     "compat.bigreactors.jei.vapormappings.recipecategory.title": "Fluido <=> Vapor"
 }
-

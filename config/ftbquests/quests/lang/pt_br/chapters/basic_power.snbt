@@ -7,7 +7,7 @@
 	quest.0BB367839D28607D.quest_desc: ["Estes &8Geradores a Carvão&r são alguns dos geradores mais fáceis de fazer.\\n\\nEles são muito simples de usar e criam uma quantidade decente de energia com base no material combustível que você coloca. Eles também distribuem energia automaticamente para blocos adjacentes."]
 	quest.0BB367839D28607D.quest_subtitle: "Combustíveis Fósseis"
 	quest.0BB367839D28607D.title: "&8Geradores a Carvão"
-	quest.0BB42C5861B22D32.quest_desc: ["O &bReator Micelial&r consiste em todos os Geradores Miceliais funcionando ao mesmo tempo, perto do bloco do reator, e produz um total de &a25MFE/t&r.\\n\\nTudo parece bom, mas você precisa automatizar algumas coisas para fazê-lo funcionar, veja o que cada Gerador Micelial consome para funcionar e automatize, a maioria das coisas é simples, mas outras, nem tanto... &oolhando para o Gerador Micelial de Desencantamento&r.\\n\\nMas depois que você automatizar tudo, não precisa parar em um, pode fazer mais reatores."]
+	quest.0BB42C5861B22D32.quest_desc: ["O &zGerador Arco-Íris&r consiste em todos os Geradores do &e&lExcessive Utilities&r funcionando ao mesmo tempo, e produz um total de &a25MFE/t&r.\\n\\nParece ótimo, mas você precisa automatizar algumas coisas para fazê-lo funcionar — veja o que cada Gerador consome para funcionar e automatize. A maioria das coisas é simples, mas outras, nem tanto... &oolhando para o Gerador de Desencantamento&r."]
 	quest.0BB42C5861B22D32.quest_subtitle: "Não é o Seu Reator Micelial"
 	quest.0BB42C5861B22D32.title: "&9Industrial Foregoing: &bReator Micelial"
 	quest.11D09E918015355C.quest_desc: ["O Mekanism's &cGerador a Calor&r é uma abordagem diferente para a produção de energia básica. Ele tem dois modos de criar energia:\\n\\n&9Passivo:&r Cercar o gerador com blocos de fonte de Lava ou corrente cria energia passiva ao longo do tempo através do calor. Coloque um bloco de fonte de Lava no topo e deixe-o escorrer pelos lados. Certifique-se de ter Canos conectados para energia primeiro!\\n\\n&9Ativo:&r Colocar materiais combustíveis como Carvão ou Madeira no gerador queimará o combustível para criar energia. Isso não é muito eficiente."]
@@ -27,17 +27,7 @@
 	]
 	quest.27A4FA38992448A0.title: "Carregamento sem Fio"
 	quest.2D4749DF9642F334.quest_desc: [
-		"O &eDyson Cube&r é a fonte de energia definitiva, produzindo insanos &l&a1GFE/t&r&r!"
-		""
-		"Monte um &eEM Rail Ejector Controller&r para lançar &bSolar Sails&r e &bBeams&r em órbita ao redor do Sol. Você pode inserir itens &bautomaticamente&r pelo centro da face inferior (você definitivamente precisará de automação para atingir a potência máxima). Infelizmente, ele &onão pode disparar&r ao meio-dia, à noite ou durante a chuva."
-		""
-		"Para coletar essa energia gloriosa, construa um &bControlador de Receptor de Raios&r. Ele emite energia pelo centro de sua face inferior, mas &onão pode receber energia&r durante a &enoite&r ou &echuva&r."
-		""
-		"Você pode &eempacotar&r beams e sails em pacotes para lançamentos mais rápidos, o que é muito mais fácil do que enviá-los um por um."
-		""
-		"Para potência máxima, você precisará enviar &c8.333.333&r beams e &c49.999.998&r sails para a órbita, o que é bastante."
-		""
-		"Antes de começar a escalar até esse nível, certifique-se de ter alguma &ageração de recursos robusta&r estabelecida."
+		"O &eDyson Cube&r é a fonte de energia definitiva, produzindo insanos &l&a100MFE/t&r&r!\\n\\nConfigure um &eControlador de Ejetor de Trilho EM&r para lançar &bVelas Solares&r e &bFeixes&r em órbita ao redor do Sol. Você pode inserir itens &bautomaticamente&r pelo centro da face inferior (você definitivamente precisará de automação para atingir a potência máxima). Infelizmente, ele &onão pode disparar&r ao meio-dia, à noite ou durante a chuva.\\n\\nPara coletar essa energia gloriosa, construa um &bControlador de Receptor de Raios&r. Ele emite energia pelo centro de sua face inferior, mas &onão pode receber energia&r durante a &enoite&r ou &echuva&r.\\n\\nVocê pode &eempacotar&r feixes e velas em pacotes para lançamentos mais rápidos, o que é muito mais fácil do que enviá-los um por um.\\n\\nPara potência máxima, você precisará enviar &c833.333&r feixes e &c4.999.998&r velas para a órbita, o que é bastante.\\n\\nAntes de começar a escalar até esse nível, certifique-se de ter uma &ageração de recursos robusta&r estabelecida."
 	]
 	quest.2D4749DF9642F334.quest_subtitle: "O poder do Sol, na palma da sua mão"
 	quest.2D4749DF9642F334.title: "&eDyson Cube"
@@ -52,13 +42,16 @@
 	quest.35CC898E0E49FE58.title: "&8Flux Networks"
 	quest.36DEA17CBB696CC7.quest_desc: ["Se você clicar com o botão direito no Plug, verá a interface da Rede Flux. No canto superior direito, clique no botão + para criar sua primeira rede. Você precisará definir uma senha para criar a rede, mas também pode definir uma cor!\\n\\nA partir daqui, você pode ir para a guia Seleção de Rede para ativar sua rede no Plug. Se o Plug estiver conectado a uma fonte de energia, agora você pode aproveitar essa energia em qualquer lugar do seu sistema usando um Ponto Flux!\\n\\nDica Profissional: Você pode criar várias redes se quiser ter diferentes fontes de energia alimentando diferentes partes de seus sistemas!"]
 	quest.36DEA17CBB696CC7.quest_subtitle: "Tornando-se um Admin de Rede!"
+	quest.396CFD3042B77917.quest_desc: ["Esta missão foi criada pela &6Equipe do AllTheMods&r ou por um &2Colaborador da Comunidade&r para uso nos Modpacks AllTheMods.\\n\\nComo todos os pacotes &6AllTheMods&r estão sob a licença &eTodos os Direitos Reservados&r, esta missão não pode ser usada em nenhum pacote público não lançado pela &6Equipe AllTheMods&r sem permissão explícita.\\n\\nEsta missão está oculta intencionalmente; se você está vendo isso, está no modo de edição."]
 	quest.3BDB94F17765EE77.quest_desc: ["Se você está procurando gerar uma tonelada de energia, pode começar ampliando algumas das opções da seção &9Energia de Meio de Jogo&r. Aumente seus &aReatores&r. Aprimore seus &9Geradores Térmicos&r para Nitro. Enlouqueça.\\n\\nNo entanto, você pode precisar de ainda mais energia."]
 	quest.3BDB94F17765EE77.quest_subtitle: "Mais Energia do que Você Precisará"
 	quest.3BDB94F17765EE77.title: "Opções de Energia de Fim de Jogo"
 	quest.42D173B9FF8D16E4.quest_desc: ["Procurando por opções de energia no início do jogo? Estas são boas maneiras de começar a gerar energia.\\n\\nElas não produzem uma tonelada de energia, mas geralmente são fáceis ou baratas de obter no início do jogo!"]
 	quest.42D173B9FF8D16E4.quest_subtitle: "Energia Inicial"
 	quest.42D173B9FF8D16E4.title: "&8&lOpções de Energia de Início de Jogo"
-	quest.43D83CFA824B0A70.quest_desc: ["O &9Mekanism&r tem uma opção de energia de fim de jogo que é difícil de superar. O &dReator de Fusão&r pode produzir até 80MRF/t, e se você quiser aprender a construí-lo, não deixe de conferir o capítulo de missões &aMekanism: &dReactors&r!"]
+	quest.43D83CFA824B0A70.quest_desc: [
+		"O &9Mekanism&r tem uma opção de energia de fim de jogo que é... massivamente nerfada. O &dReator de Fusão&r pode produzir até 400kRF/t, e se você quiser aprender a construí-lo, não deixe de conferir o capítulo de missões &aMekanism: &dReatores&r!"
+	]
 	quest.43D83CFA824B0A70.quest_subtitle: "Fusão, Ativar!"
 	quest.43D83CFA824B0A70.title: "&9Mekanism: &dReator de Fusão"
 	quest.477B411F84342EEA.quest_desc: ["Mekanism é um dos melhores mods para armazenamento de energia, especialmente no início do jogo.\\n\\nO Cubo de Energia Básico é fácil de configurar, fácil de criar e armazena muita energia. Ele também pode ser atualizado e pode carregar itens dentro da interface!\\n\\nPara saber mais sobre como atualizar o Cubo de Energia, bem como o mod, vá para o capítulo de missões do &aMekanism&r!"]
