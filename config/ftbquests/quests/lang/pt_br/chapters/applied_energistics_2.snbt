@@ -82,14 +82,10 @@
 	quest.22C4318523A43B49.quest_subtitle: "[piada de usuário de Linux vai aqui]"
 	quest.22C4318523A43B49.title: "Terminais"
 	quest.234DC1702333EB18.quest_desc: [
-		"O add-on &dAEInfinityBooster&r fornece dois boosters sem fio personalizados para o &bApplied Energistics 2&r."
-		""
-		"Com eles, você obtém &lalcance de conectividade infinito&r, com suporte opcional para &eacesso entre dimensões&r."
-		""
-		"Ideal para manter seus sistemas AE2 sempre conectados, esteja você onde estiver!"
+		"O addon &dAEInfinityBooster&f fornece dois amplificadores sem fio exclusivos, permitindo alcance de conectividade infinito, com suporte opcional entre dimensões."
 	]
 	quest.234DC1702333EB18.quest_subtitle: "Não vou escrever a frase do Toy Story!"
-	quest.234DC1702333EB18.title: "Infinity Booster"
+	quest.234DC1702333EB18.title: "Amplificador Infinito"
 	quest.25DBA00422301EDC.quest_desc: ["O segundo Tier &5MEGA&r de Componente de Armazenamento, fornecendo &e4194304&f (4096k) bytes de armazenamento."]
 	quest.25DBA00422301EDC.quest_subtitle: "x4"
 	quest.25DBA00422301EDC.title: "&5Componente de Armazenamento de 4M"
@@ -119,7 +115,7 @@
 	quest.2FB231069D2E4E77.title: "&eCriando sua primeira Célula de Armazenamento"
 	quest.30E853CE699E669B.quest_desc: ["Antes de poder realizar um trabalho de auto-criação, você precisa de um dispositivo para armazenar a solicitação em si, juntamente com quaisquer itens intermediários para criações de múltiplos passos. Este dispositivo é conhecido como uma &eCPU de criação&f.\\n\\nUma CPU de criação é uma estrutura multibloco que requer pelo menos um bloco de &bArmazenamento de Criação&f, opcionalmente junto com qualquer outra Unidade de Criação. O multibloco pode ser feito em qualquer tamanho, mas deve ser um cubo sólido para se formar e funcionar adequadamente."]
 	quest.30E853CE699E669B.quest_subtitle: "Baixe mais RAM"
-	quest.30E853CE699E669B.title: "&eArmazenamento de &bC&9r&1i&3a&cç&eã&5o"
+	quest.30E853CE699E669B.title: "&eArmazenamento de &zCriação"
 	quest.3195A7AA874163CD.quest_desc: ["O &bCartão de Distribuição Igualitária&f é uma melhoria para células de armazenamento que pré-aloca uma certa quantidade de itens que pode ser ocupada por qualquer tipo individual.\\n\\nEste comportamento é comparável a algo como uma &6Functional Storage Gaveta&r, onde cada compartimento contém um número definido de pilhas, em oposição a permitir que itens de um compartimento vazem para os outros e expulsem outros tipos de itens."]
 	quest.3195A7AA874163CD.quest_subtitle: "Organização nível TOC desbloqueada!"
 	quest.332A3C7BA261DBFC.quest_desc: ["Usar uma &eVarinha de Radiestesia&r do &dArs Nouveau&r ajudará a encontrar a localização exata de um &eMeteorito&r após você ter usado a &eBússola de Meteorito&r para encontrar sua localização geral."]
@@ -284,13 +280,13 @@
 	task.14DEFFB80CC96BC1.title: "Cabo ME Denso Coberto"
 	task.23D186249A999B8C.title: "Facas de Corte de Quartzo"
 	task.2923D1E2BEAF94B0.title: "Guias Adicionais"
-	task.338A6DA0D711B7DC.title: "ME Pattern Provider"
+	task.338A6DA0D711B7DC.title: "Provedor de Padrões"
 	task.38E290AC5E011888.title: "Cabo ME Denso Inteligente"
 	task.408C5263C4664195.title: "Baús"
 	task.40A7CC56DACC2623.title: "Cabos de Vidro de ME"
 	task.4C5435BE5560E71B.title: "TodosOsDireitosReservados"
 	task.61D93B13D496547D.title: "Armazenamento de Fluidos"
-	task.64EAD3DE84E94F02.title: "ME Covered Cables"
+	task.64EAD3DE84E94F02.title: "Cabo ME Coberto"
 	task.65C439FD14C5EEB9.title: "Armazenamento Portátil"
 	task.7241918F270CA402.title: "Interface ME"
 	task.729773FF26CBB542.title: "TodosOsDireitosReservados"

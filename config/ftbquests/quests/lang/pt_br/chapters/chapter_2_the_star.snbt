@@ -16,7 +16,7 @@
 	quest.08CE14FFED813992.quest_subtitle: "13 Blocos Rosa Escuro Molhados"
 	quest.08E47A27EFFB7C6B.quest_subtitle: "5 Blocos Rosa Secos"
 	quest.0923C941A9696122.quest_desc: ["Caso você precise levar 256 Milhões de Itens em uma Aventura com você!\\n\\nVocê precisará de alguns Itens simples como &8MEGA Item Cell Housing&r, &5Baú ME&r e uma &5Célula Densa de Energia&r.\\n\\nE então precisaremos do &d256M MEGA Storage Component&r... este é muito mais difícil de fazer.\\n\\nSe a Criação repetitiva te faz odiar o &2&lMinecraft&r, então você pode querer Criar a &2Carcaça de Máquina à Prova de Explosões&r!\\n\\nPrecisaremos de 2 Células de Item Portátil de 256M, 2 &2Carcaças de Máquina à Prova de Explosões&r, ou uma mistura de ambos para Criar o &3&lDispositivo de Probabilidade Improvável&r."]
-	quest.0923C941A9696122.title: "256M Portable Item Cell"
+	quest.0923C941A9696122.title: "Célula de Item Portátil de 256M"
 	quest.09D76E9B8CABC31E.quest_desc: ["Para a &5&lEssência Criativa&r você precisará de 4 &5Blocos de Essência de Insanium&r. Cada Bloco equivale a 9 &5Essências&r, agora deixe-me fazer as contas...\\n\\nVocê precisará de 9.216 &aEssências de Inferium&r para obter apenas um desses Blocos. Então, você precisará de 36.864 &aEssências de Inferium&r no total!"]
 	quest.09D76E9B8CABC31E.title: "4 &5Blocos de Insanium"
 	quest.0AE28C998A3BF136.quest_subtitle: "531.441 Netherrack"
@@ -65,8 +65,11 @@
 	quest.23AE395433AED3C0.title: "O Invólucro da &6&lEstrela"
 	quest.24F3E90C14BFD1B4.quest_desc: ["O &7&lModern Industrialization&r é um mod tão grande quanto o seu nome! \\n\\nEle tem vários níveis de máquinas e, felizmente, não precisamos ir até o último para a &6&lEstrela&r. \\n\\nNa verdade, agora é totalmente opcional! Se preferir brincar com o &6&lCreate&r para criar (entendeu?) a &6&lEstrela ATM&r, você pode!"]
 	quest.24F3E90C14BFD1B4.title: "&7&lModern Industrialization"
-	quest.263C9A0FC04472AB.quest_desc: ["Este pode tanto consumir &cLava&r como nenhum outro, ou ser usado para a &6&lEstrela (Star)&r. \\n\\nEste é difícil, eu gosto de ver a &cLava&r desaparecer em vez das minhas coisas desaparecerem na &cLava&r."]
-	quest.263C9A0FC04472AB.title: "&4Gerador Magmático 64x"
+	quest.25DF42B99D658884.quest_desc: ["O &7&lEnder IO&r é um mod de tecnologia.\\n\\nComece obtendo &7Grãos do Infinito&r colocando Bedrock ou Ardosiabissal em chamas no Mundo Superior.\\n\\nPor muito tempo, ele não tinha uma linha de missões, mas agora tem uma!"]
+	quest.25DF42B99D658884.quest_subtitle: "&oBim bam bum, varra o infinito com uma vassoura"
+	quest.25DF42B99D658884.title: "&7&lEnder IO"
+	quest.263C9A0FC04472AB.quest_desc: ["Este pode tanto consumir &cLava&r e &4Redstone&r como nenhum outro, ou ser usado para a &6&lEstrela&r. \\n\\nEste é difícil, eu gosto de ver a &cLava&r desaparecer em vez das minhas coisas desaparecerem na &cLava&r."]
+	quest.263C9A0FC04472AB.title: "&6Gerador de Redstone Aquecida"
 	quest.268EA2DEC8840D13.quest_desc: ["Ao trabalhar com &4Computadores&r, especialmente os Quânticos, os Martelos e Alicates na Bancada de Trabalho não conseguirão fabricar o que precisamos, precisaremos de um &bMontador de Cristal (Crystal Assembler)&r. \\n\\nPara este, precisaremos de um monte de &9Singularidades&r!"]
 	quest.268EA2DEC8840D13.title: "&4Multi-Threader de Computador Quântico"
 	quest.28DB59B20109D0D4.quest_desc: ["&6&lOritech&r é um Mod Tecnológico (vai entender!) conhecido por muitas &lMáquinas Multiblocos&r, Blocos Perigosos e Blocos com Títulos Coloridos! \\n\\nVocê vai precisar de várias Máquinas, muitos Materiais, Ligas diferentes, e muito tempo. \\n\\nVocê precisará de uma &6Bobina Magnética&r para começar, e boa sorte!"]
@@ -123,6 +126,7 @@
 	quest.3F5B5D6B788E0A73.quest_desc: ["Sangue, carne, rituais, se é do mal, pode apostar que é do &4&lEvilCraft&r! "]
 	quest.3F5B5D6B788E0A73.title: "&4&lEvilCraft"
 	quest.3F8AEBB994716318.quest_desc: ["&8Wither&r é um Efeito na &l&2Vanilla&r, então é claro que precisamos da nossa própria maneira de usá-lo e abusar dele! \\n\\nVocê pode preparar uma Poção Estranha com uma &8Caveira de Esqueleto Wither&r para criá-lo. Então você pode criar Flechas com ele!"]
+	quest.4069785E5822068C.quest_desc: ["Feita na VAT, a &3Semente de Nuvem Concentrada&r pode ser usada com o Obelisco Climático para deixar o clima tempestuoso. Ou ser usada para a &6&lEstrela&r."]
 	quest.4195800B4D7631E2.quest_desc: ["Através do ritual da &6Compulsão Espectral de Eziveus&r, podemos combinar uma &7Estrutura de Buraco de Minhoca&r, 2 Quartzos e uma &3Enderpearl&r para obter nosso Buraco de Minhoca!"]
 	quest.4195800B4D7631E2.title: "&6Buraco de Minhoca Estável"
 	quest.42AF4EBDA5D6CC36.quest_desc: ["Você pode fazer &2Liga à Prova de Explosão&r combinando os três Metais mais fortes disponíveis. &5Tungstênio&r, &dTitânio&r e &7Aço Inoxidável&r. Sim, as manchas importam, aparentemente. \\n\\nCom eles, você pode combiná-los para fazer o &2Invólucro&r. \\n\\nPara o &3&lDispositivo de Probabilidade Improvável&r, precisaremos de 2 &2Carcaças de Máquina à Prova de Explosões&r, ou 2 Células de Item Portáteis de 256M, ou podemos usar uma mistura de ambos!"]
@@ -140,12 +144,13 @@
 	quest.4BD203AD481DDE8F.quest_desc: ["O &4Triturador&r é feito de &4Witherite&r, que é um Drop do &4&lArauto&r. \\n\\nVocê precisará encontrar a &4Fábrica Ancestral&r que fica no subsolo profundo do &2&lMundo Superior&r. \\n\\nEntão você encontrará o &4&lArauto&r desligado, para ligá-lo, precisaremos alimentá-lo com uma Estrela do Nether! \\n\\nEntão, após uma luta de chefe muito difícil e longa, você pode Criar o &4Triturador&r!"]
 	quest.4BD203AD481DDE8F.title: "&4Triturador"
 	quest.4CB488E5CF10F3A4.quest_desc: ["Apenas o Gerador mais poderoso e caro de &c&lGenerator Galore&r. \\n\\nVocê precisará de um &9Fragmento de Eco&r, um &bConduto&r e uma tonelada de Geradores de Netherstar!"]
+	quest.4CB488E5CF10F3A4.title: "&zGerador Arco-Íris!"
 	quest.4D7D4C718837BCA5.quest_desc: ["A parte principal da receita para o Portal do Nether em Miniatura é a &3Estante Infernal da Visão Magistral&r. Geralmente, ela é usada para ver quais Encantamentos você obterá, mas estamos aqui pela &6&lEstrela ATM&r, não por Encantamentos. \\n\\nVocê só precisará encantar até uma &4Estante Infernal Infundida&r, que pode ser obtida com apenas algumas Estantes. Então você precisa fabricar com ela para aprimorá-la ainda mais! \\n\\nDepois disso, você pode fabricar o Portal do Nether em Miniatura, pelo qual não, você não pode passar, você é grande demais!"]
 	quest.4E82E843737045D9.quest_desc: [""]
 	quest.4E82E843737045D9.quest_subtitle: "&oEssência dos seres mais poderosos."
 	quest.4E82E843737045D9.title: "&d&lAlma do Dragão"
-	quest.4E8C32CD6057A1AB.quest_desc: ["Para fazer o &c&lCombustível do Filósofo&r, temos a opção de usar &cQueimadores de Blaze&r ou &aVaras de Combustível Quádruplas de Urânio&r. \\n\\nO que você achar mais fácil de Fabricar! \\n\\n(Também conhecido como o &cQueimador de Blaze&r!)"]
-	quest.4E8C32CD6057A1AB.title: "&cQueimador de Blaze&f ou &aVaras de Combustível Quádruplas de Urânio"
+	quest.4E8C32CD6057A1AB.quest_desc: ["Para fazer o &c&lCombustível do Filósofo&r, temos a opção de usar &cQueimadores de Blaze&r ou &aBarras de Combustível Quádruplas de Urânio&r. \\n\\nO que você achar mais fácil de Fabricar! \\n\\n(Também conhecido como o &cQueimador de Blaze&r!)"]
+	quest.4E8C32CD6057A1AB.title: "&cQueimador de Blaze&f ou &aBarras de Combustível Quádruplas de Urânio"
 	quest.501A0AEEC73C0790.quest_desc: ["&6Piglich&r é um Chefe adicionado por &6&lAllthemodium&r que vive na Pirâmide Ancestral em &l&bO Outro&r. \\n\\nNa morte, ele dropará 1 de seus Corações! Você precisará matar 9 deles para fazer um Bloco... \\n\\nFelizmente, existem maneiras de farmá-los!"]
 	quest.501A0AEEC73C0790.title: "Bloco de Coração do &6Piglich"
 	quest.535525EA4DF4AB59.quest_desc: ["O &cTransmissor de Jogador&r fornecerá energia a qualquer pessoa com o Cartão Vinculado. Isso inclui energia para todas as armaduras, ferramentas e itens em seu inventário. \\n\\nO &cNível Nitro&r é necessário para a &6&lEstrela&r, que é, claro, o último e mais difícil de obter."]
@@ -165,9 +170,11 @@
 	quest.5791F3000D18E2C9.quest_desc: ["O &8Wither&r tem a tendência de quebrar e explodir Blocos. \\n\\nA maioria dos jogadores não gosta disso, então os &8Tijolos à Prova de Wither&r são exatamente o que você está procurando! \\n\\nEles são como os &8Blocos à Prova de Wither&r, mas com um design melhor!"]
 	quest.5791F3000D18E2C9.title: "&8Tijolos à Prova de Wither"
 	quest.57F107892FFA1F52.quest_desc: ["Para cultivar Sementes de Estrela do Nether, você precisará de um Crux abaixo da Farmland. Sim, o cultivo de Estrelas do Nether precisava ser mais caro! \\n\\nPara fazer o Crux da Estrela do Nether, você precisará de &7Almas Languinhentas&r, que têm 1/3 de chance de drop de &8Withers&r."]
-	quest.5869E198DA416346.quest_desc: ["O Fim de Jogo do &5&lMekanism&r é simplesmente insano. Para 1 &5Pellet de Antimatéria&r, você precisa cristalizar 1.000mb de &5Antimatéria&r. \\n\\nPara 1mb de &5Antimatéria&r, você precisa energizar 1.000mb de &3Polônio&r através do AFS. \\n\\nPara obter 1mb de &3Polônio&r, você precisará ativar os Nêutrons de 5mb de &2Lixo Nuclear&r. \\n\\nE &2Lixo Nuclear&r você obtém processando &9Combustível Fóssil&r através de um Reator de Fissão!"]
+	quest.5869E198DA416346.quest_desc: [
+		"A personificação de uma opinião perfeita.\\n\\nUm único Núcleo de Opínio Perfeito requer:\\n- 1.024 Carvões Vermelhos\\n- 4.609 Lingotes de Ferro\\n- 2.304 Lingotes de Ouro\\n- 1.152 Diamantes\\n- 576 Esmeraldas\\n- 32 Flores do Coro\\n- 16 Frascos de Encantamento\\n- 8 Élitros\\n- 4 Estrelas do Nether\\n\\nNa minha opinião, uma escolha melhor para o &3&lDispositivo de Probabilidade Improvável&r do que a &5Antimatéria&r."
+	]
 	quest.5869E198DA416346.title: "2 &5Pastilhas de Antimatéria"
-	quest.59EC02C1FBCF14EA.quest_desc: ["Você pode atualizar seu &5Gerador de Obsidiana&r para um &3Gerador de Ender&r. \\n\\nEntão, ele pode usar &3Pérolas do End&r ou &3Olhos do End&r para gerar Energia! \\n\\nOu fazer a &6&lEstrela&r, sua escolha."]
+	quest.59EC02C1FBCF14EA.quest_desc: ["A &3Melhoria de Fortuna III da Escavadeira Ender&r aplica o encantamento Fortuna III à &3Escavadeira Ender&r."]
 	quest.59EC02C1FBCF14EA.title: "&3Gerador de Ender"
 	quest.5A6831E0BD2F6AB5.quest_desc: ["Você vai precisar de muitas &8Gemas Sombrias&r!"]
 	quest.5A6831E0BD2F6AB5.title: "2 &4Focos de Vingança Perfurante"
@@ -235,16 +242,18 @@
 	quest.750B6316267CF574.quest_desc: ["Quando suas Colmeias estiverem vagas e no escuro, você pode encontrar uma pequena abelha visitante, a Abelha Esquelética. \\n\\nVocê pode então alimentar sua nova visitante com uma &8Rosa do Wither&r para torná-la uma &8Abelha Witherizada&r."]
 	quest.750B6316267CF574.title: "&8Bloco de Favo Withered"
 	quest.752DD0BF36B70D88.quest_desc: ["As Fornalhas simplesmente não são rápidas o suficiente no &2&lMinecraft&r normal, então como você acha que elas vão se sair no Modded!?\\n\\nFelizmente, o &7&lFornalha de Ferros&r ajuda a acelerá-las bastante! \\n\\nEle também tem uma página de Missões, só está dividindo o espaço com o &c&lGenerator Galore&r."]
-	quest.752DD0BF36B70D88.title: "&7&lFornalha de Ferros"
+	quest.752DD0BF36B70D88.title: "&7&lIron Furnaces"
 	quest.75EE965CBA598FEA.quest_desc: ["A receita pode parecer confusa, mas confie em mim, é bem fácil. Crie qualquer &dTerminal Sem Fio&r e depois crie-os juntos para fazer o &dTerminal Sem Fio Universal&r. \\n\\nEle também manterá tudo o que você tinha no &dTerminal&r, como Padrões Estendidos, o que é muito útil para usar o &b&lAE2&r, mas não importa para a &6&lEstrela ATM&r!"]
 	quest.75EE965CBA598FEA.title: "&dTerminal Sem Fio Universal"
 	quest.764609E41957DA69.quest_subtitle: "6.561 Blocos de Esmeralda"
-	quest.76C63670624C3C56.quest_desc: ["O &c&lGenerator Galore&r nos dá toneladas de Geradores de Energia úteis e simples! \\n\\nAlguns podem até ser combinados entre si para serem mais poderosos. \\n\\nHá uma página de Missões para eles, só que estão dividindo o quarto com o &7&lFornalha de Ferros&r."]
-	quest.76C63670624C3C56.title: "&c&lGenerator Galore"
+	quest.76C63670624C3C56.quest_desc: [
+		"O &e&lExcessive Utilities&r é uma continuação do &e&lExtra Utilities 1&r e do &e&l2&r, oferecendo vários itens úteis e afins. Alguns de vocês podem se lembrar do mod de versões mais antigas do Minecraft com mods.\\n\\nSeja esta a primeira ou a milésima vez que você vê este mod, você vai precisar de algumas coisas dele para a &6&lEstrela ATM&r."
+	]
+	quest.76C63670624C3C56.title: "&e&lExcessive Utilities"
 	quest.7766E66A14643F4D.quest_desc: ["O &6Despertar&r é uma adição relativamente nova ao &2&lMystical Agriculture&r. Através do &6Ritual do Despertar&r, você pode fazer &6Essência Despertada&r. \\n\\nEntão você pode combinar isso com Barras para obter este Bloco!"]
 	quest.7766E66A14643F4D.title: "&6Bloco de Lingote de Supremium Despertado"
 	quest.779CA0C49F93C4F9.quest_subtitle: "59.049 Obsidiana"
-	quest.77F2271C45DB49BA.quest_desc: ["Este Módulo, quando colocado no Peitoral do &aMeka-Traje&r, lhe dará Voo Criativo. \\nVocê só precisa de alguns dos Itens mais caros do jogo para criá-lo!"]
+	quest.77F2271C45DB49BA.quest_desc: ["Este Módulo, quando colocado no Peitoral do &aTraje-Meka&r, lhe dará Voo Criativo. \\nVocê só precisa de alguns dos Itens mais caros do jogo para criá-lo!"]
 	quest.7A579E233C69871F.quest_desc: ["&b&lHostile Neural Networks&r é tudo sobre simular Mobs para farmar seus Loots! \\n\\nNão há muito mais do que isso."]
 	quest.7A579E233C69871F.title: "&b&lHostile Neural Networks"
 	quest.7B140A034DF1291C.quest_desc: ["O &7&lEmissor Nexium&r precisa de algo para movê-lo, que pode ser tanto o &6Braço Mecânico&f quanto o &6Motor Avançado Grande&r! \\n\\nAmbos se movem, então qualquer um funciona!"]

@@ -29,6 +29,7 @@
 	quest.3ADCAD65EA6900BA.title: "&2Arqueologia&r!"
 	quest.3B6F1BD64C0C570F.quest_desc: ["Assim como a geração eólica, isso lhe dará muita energia sem fornecer nenhum recurso. A única desvantagem aqui é que tem que ser de dia. "]
 	quest.3B6F1BD64C0C570F.title: "Energia Solar"
+	quest.4521A03C3F19121D.quest_desc: ["O &aEnder IO&r também oferece seu próprio gerador tipo fornalha, o Gerador Stirling. Ele foi fortalecido neste pack para torná-lo uma opção mais viável no início do jogo."]
 	quest.4869C413646CC4CC.quest_desc: [
 		"Transferir energia de seus geradores é provavelmente uma boa ideia, mas como você pode fazer isso? "
 		""
@@ -96,11 +97,11 @@
 	quest.7EC01E7DB045DB05.quest_desc: ["Os &aAprimoramentos&r são melhorias de Fornalha que podem alterar ou melhorar a função de uma Fornalha.\\n\\n - Fundição: Converte a Fornalha para permitir apenas receitas de Alto-forno.\\n\\n - Defumação: Converte a Fornalha para permitir apenas receitas de Defumador.\\n\\n - Fábrica: Converte a Fornalha para usar energia em vez de combustível e a melhora para uma fábrica, permitindo fundir vários itens de uma vez. Isso aumenta dependendo do nível da Fornalha.\\n\\n - Velocidade: Dobra a velocidade da fornalha ao custo do dobro de combustível.\\n\\n - Eficiência de Combustível: Dobra a quantidade de itens fundidos por combustível, mas reduz a velocidade em 25%"]
 	quest.7EC01E7DB045DB05.title: "&aAprimoramentos&r de Fornalha"
 	task.0AFA64F1025569A2.title: "Equipamento de Netherita"
+	task.1329EDCB0F482F3D.title: "Geradores de Fornalha do Excessive Utilities"
 	task.1693B07767081FB3.title: "Moldes de Armadura"
 	task.173044E1C1134A80.title: "Pedregulho"
 	task.1869893A4F8E9E9C.title: "Martelos de Minério"
 	task.1960B985B54B9FBD.title: "Cabos de Energia"
-	task.26CDA4EADF919D5C.title: "Geradores"
 	task.285A53DB9D54595D.title: "Troncos"
 	task.2CE553B282962E01.title: "Baldes"
 	task.2E49798B39BAA192.title: "Energia Solar"
@@ -108,9 +109,11 @@
 	task.3BEA6C6A41D5ABEA.title: "Aprimoramentos de Fornalha"
 	task.3C95552D03C16F3D.title: "Armazenamento de Energia"
 	task.44CEA28EBD6C0898.title: "TodosOsDireitosReservados"
+	task.4DB11C6F180743E9.title: "Energia de Lava"
 	task.539C6F64C251543B.title: "Carvão"
 	task.6CAD0E4CF3577BEB.title: "Mate 1 Defensor"
 	task.76C41881A02F2098.title: "Mate 1 Wither"
 	task.7C6F7EF2B3AC2824.title: "TodosOsDireitosReservados"
 	task.7C88F80D05E62AC7.title: "Iron Furnaces"
+	task.26CDA4EADF919D5C.title: "Geradores"
 }

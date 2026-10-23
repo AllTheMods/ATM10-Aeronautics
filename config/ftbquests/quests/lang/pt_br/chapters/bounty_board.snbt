@@ -14,7 +14,7 @@
 	quest.199932BF623A6785.title: "&fMate o &2Guardião Esquecido"
 	quest.1F18B64C84C8809D.title: "&l&9Recompensa do Mundo Superior:&r&e Aranhas"
 	quest.2B05A29C62676EB2.title: "&l&9Recompensa do Mundo Superior:&r&e Zumbis"
-	quest.2BD077EFE77B8EBB.quest_desc: ["Zumbis têm diferentes variantes que aparecem em outros Biomas. \\n\\n&eMúmia&r - aparecem em Desertos. \\n&9Afogados&r - aparecem debaixo d'água."]
+	quest.2BD077EFE77B8EBB.quest_desc: ["Zumbis têm diferentes variantes que aparecem em outros Biomas. \\n\\n&eMúmias&r - aparecem em Desertos. \\n&9Afogados&r - aparecem debaixo d'água. \\n&bGelids&r - aparecem em Biomas Frios. \\n&2Thickets&r - aparecem em Selvas."]
 	quest.2BD077EFE77B8EBB.title: "&aVariantes de Zumbi"
 	quest.2CA9394459C24012.quest_desc: ["Rotbeasts são Minichefes que aparecem por todo o Undergarden."]
 	quest.2CA9394459C24012.title: "&fMate um &cRotbeast"
@@ -29,7 +29,7 @@
 	quest.56DA46DC82F6665D.title: "&fMate a &dWilden Chimera"
 	quest.5AC497F76A086A5C.title: "&l&9Recompensa do Mundo Superior:&r&e Bruxas"
 	quest.6141DE779232C8AA.title: "&l&cRecompensa do Nether:&r&e Blazes"
-	quest.6827836C8E675A94.quest_desc: ["Esqueletos têm variantes diferentes, assim como os Zumbis! \\n\\n&bErrante&r - aparecem em Biomas Frios. \\n&2Pantanoso&r - aparecem em Pântanos e Câmaras de Desafio."]
+	quest.6827836C8E675A94.quest_desc: ["Esqueletos têm variantes diferentes, assim como os Zumbis! \\n\\n&bErrantes&r - aparecem em Biomas Frios. \\n&2Pantanosos&r - aparecem em Pântanos e Câmaras de Desafio. \\n&9Murks&r - aparecem debaixo d'água em Recifes de Coral. \\n&2Verdants&r - aparecem em Selvas."]
 	quest.6827836C8E675A94.title: "&fVariantes de Esqueleto"
 	quest.728BE1816DA23DC0.quest_desc: ["O Dragão do End é o Chefe que guarda O Fim. \\n\\nQuando você entra em um Portal do End, chegará à Ilha do End onde ele aparece. \\n\\nEle tem 200 Corações e pode atacar com Bolas de Fogo ou te atingindo. \\n\\nVocê terá que quebrar os Cristais do End nos pilares, pois eles o curam, para poder matá-lo! \\n\\nUma vez que você o mate, ele dropará: Essência Arcana, Shaderbags Épicos, Pele de Dragão, Escamas de Dragão de dois mods diferentes e um monte de experiência! \\n\\nEntão, o Portal se abrirá para que você possa retornar ao Mundo Superior, ou você pode encontrar um Portal do End para explorar as ilhas externas. Você também encontrará um Ovo de Dragão no Portal."]
 	quest.728BE1816DA23DC0.title: "&fMate o &5Dragão &fdo &eEnd"

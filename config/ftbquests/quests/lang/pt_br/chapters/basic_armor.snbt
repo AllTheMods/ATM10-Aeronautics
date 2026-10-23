@@ -48,9 +48,9 @@
 	quest.1A8440C0048EEB02.quest_desc: ["&cOuro de Blaze&r tem os mesmos status do Ferro, mas tem outras habilidades que o Ferro gostaria de ter! \\n\\nConfira as descrições dos Itens para saber mais sobre o que eles podem fazer!"]
 	quest.1A8440C0048EEB02.quest_subtitle: "15"
 	quest.1A8440C0048EEB02.title: "Armadura de &cOuro de Blaze"
-	quest.1C27C74722A19FC1.quest_desc: ["Com uma tonelada de Itens super caros do &l&5Mekanism&r, você pode atualizar a &5Armadura de Unobtainium&r para o &aMekaTraje&r! \\n\\nAgora ele pode conter Energia e, em vez de tirar corações de dano, ele tirará Energia. \\n\\nVocê pode usar Unidades de Melhoria para torná-lo ainda melhor!"]
+	quest.1C27C74722A19FC1.quest_desc: ["Com uma tonelada de Itens super caros do &l&5Mekanism&r, você pode atualizar a &5Armadura de Unobtainium&r para o &aTraje-Meka&r! \\n\\nAgora ele pode conter Energia e, em vez de tirar corações de dano, ele tirará Energia. \\n\\nVocê pode usar Unidades de Melhoria para torná-lo ainda melhor!"]
 	quest.1C27C74722A19FC1.quest_subtitle: "Tanta Energia quanto você puder fornecer"
-	quest.1C27C74722A19FC1.title: "&aMekaTraje"
+	quest.1C27C74722A19FC1.title: "&aTraje-Meka"
 	quest.1CC627D3FB348C89.quest_desc: ["{image:atm:textures/questpics/basicarmor/armor_shaper.png width:100 height:150 align:center}"]
 	quest.1CC627D3FB348C89.quest_subtitle: "Ruínas da Trilha"
 	quest.1CC627D3FB348C89.title: "Enfeite de Moldador"
@@ -65,7 +65,7 @@
 	quest.1E3E688B3B52C4D2.quest_subtitle: "Ruínas da Trilha"
 	quest.1E3E688B3B52C4D2.title: "Enfeite de Levante"
 	quest.1EABF2E7AE7B8F22.quest_desc: ["{image:atm:textures/questpics/basicarmor/armor_netherite.png width:100 height:150 align:center}"]
-	quest.1EABF2E7AE7B8F22.title: "&8Netherite&r"
+	quest.1EABF2E7AE7B8F22.title: "&8Netherita&r"
 	quest.1EBF234015B26F15.quest_desc: ["Armadura básica adicionada pelo &a&lRoots Classic&r, você precisará de um Ritual para obtê-la!"]
 	quest.1EBF234015B26F15.quest_subtitle: "14"
 	quest.1EBF234015B26F15.title: "&2Equipamento Silvestre"
@@ -82,7 +82,7 @@
 	quest.243008D4DCD789D0.quest_desc: ["{image:atm:textures/questpics/basicarmor/armor_wild.png width:100 height:150 align:center}"]
 	quest.243008D4DCD789D0.quest_subtitle: "Templos da Selva"
 	quest.243008D4DCD789D0.title: "Enfeite da Selva"
-	quest.28408BFAA54E4FC6.quest_desc: ["A &7Armadura de Couro&r é o pior conjunto de Armadura que você pode obter. \\n\\nIsso ocorre principalmente porque a &c&lMojang&r esperava que você a obtivesse antes de qualquer outra. \\n\\nEu quase nunca a obtenho, no entanto, porque luto para encontrar tantas &8V&fa&8c&fa&8s&r, desculpe &c&lMojang&r!"]
+	quest.28408BFAA54E4FC6.quest_desc: ["A &7Armadura de Couro&r é o pior conjunto de Armadura que você pode obter. \\n\\nIsso ocorre principalmente porque a &c&lMojang&r esperava que você a obtivesse antes de qualquer outra. \\n\\nEu quase nunca a obtenho, no entanto, porque luto para encontrar tantas &zVacas&r, desculpe &c&lMojang&r!"]
 	quest.28408BFAA54E4FC6.quest_subtitle: "7"
 	quest.28408BFAA54E4FC6.title: "&7Armadura de Couro"
 	quest.2A4FE9644F3B9DC1.quest_desc: ["Versão aprimorada do &2Prudentium&r."]
@@ -115,7 +115,7 @@
 	quest.3403D7502F7BC897.quest_desc: ["Literalmente invencível, nada pode te atingir e causar dano. \\n\\nAtualmente você precisa melhorar a &cArmadura de Netherita&r com uma &eMelhoria &bQuântica&r, mas seus amigos da &6&lEquipe ATM&r estão trabalhando para tornar essa receita mais difícil! \\n\\nE você não pode fazer nada para impedir! &lBWAHAHAHAHA"]
 	quest.3403D7502F7BC897.quest_subtitle: "Invencível"
 	quest.3403D7502F7BC897.title: "&eArmadura &bQuântica&r (&l&7MI&r)"
-	quest.34D14B807A2DAC0F.quest_desc: ["Você acha que o &5&lMekanism&r e o &l&7Modern Industrialization&r podem ter toda a diversão? \\n\\nEsta &5Armadura Quântica&r tem status padrão semelhantes à &cArmadura de Netherita&r, mas, como o &aMeka-Traje&r, pode usar Energia como um escudo. \\nTambém possui melhorias que podem ser instaladas para torná-lo ainda mais poderoso! Como Voo, Visão Noturna e até a capacidade de recarregar. \\n\\nMas a melhor parte é que ela pode ser vinculada ao seu Sistema de Armazenamento! Então, você pode retirar energia automaticamente dele e retirar qualquer Item dele, não importa onde você esteja. "]
+	quest.34D14B807A2DAC0F.quest_desc: ["Você acha que o &5&lMekanism&r e o &l&7Modern Industrialization&r podem ter toda a diversão? \\n\\nEsta &5Armadura Quântica&r tem status padrão semelhantes à &cArmadura de Netherita&r, mas, como o &aTraje-Meka&r, pode usar Energia como um escudo. \\nTambém possui melhorias que podem ser instaladas para torná-lo ainda mais poderoso! Como Voo, Visão Noturna e até a capacidade de recarregar. \\n\\nMas a melhor parte é que ela pode ser vinculada ao seu Sistema de Armazenamento! Então, você pode retirar energia automaticamente dele e retirar qualquer Item dele, não importa onde você esteja. "]
 	quest.34D14B807A2DAC0F.quest_subtitle: "Tanta Energia quanto você puder fornecer"
 	quest.34D14B807A2DAC0F.title: "&5Armadura Quântica&r (&l&bAE2&r)"
 	quest.351159C55159C316.quest_desc: ["{image:atm:textures/questpics/basicarmor/armor_spire.png width:100 height:150 align:center}"]
@@ -185,7 +185,7 @@
 	quest.5DDC15AAFD2CAF47.quest_subtitle: "20"
 	quest.5DDC15AAFD2CAF47.title: "&bArmadura de Diamante"
 	quest.5E6D7C1D7957DD4D.quest_desc: ["{image:atm:textures/questpics/basicarmor/armor_forgotten.png width:100 height:150 align:center}"]
-	quest.5E6D7C1D7957DD4D.title: "&aForgotten&r"
+	quest.5E6D7C1D7957DD4D.title: "&aEsquecido&r"
 	quest.5E7CCDE9229A646A.quest_desc: ["{image:atm:textures/questpics/basicarmor/armor_allthemodium.png width:100 height:150 align:center}"]
 	quest.5E7CCDE9229A646A.title: "&6Allthemodium&r"
 	quest.606775701551F3EE.quest_desc: ["{image:atm:textures/questpics/basicarmor/armor_carminite.png width:100 height:150 align:center}"]
@@ -203,7 +203,7 @@
 	quest.66C21934DAFFAC7F.quest_subtitle: "Dropado de Guardiões Anciões"
 	quest.66C21934DAFFAC7F.title: "Enfeite de Marés"
 	quest.68DABFFB6B3E1A57.quest_desc: ["{image:atm:textures/questpics/basicarmor/armor_eye.png width:100 height:150 align:center}"]
-	quest.68DABFFB6B3E1A57.quest_subtitle: "Stronghold"
+	quest.68DABFFB6B3E1A57.quest_subtitle: "Fortaleza"
 	quest.68DABFFB6B3E1A57.title: "Enfeite de Olho"
 	quest.690DB8BEF80617E5.quest_desc: ["{image:atm:textures/questpics/basicarmor/armor_utherium.png width:100 height:150 align:center}"]
 	quest.690DB8BEF80617E5.title: "&cUtherium&r"
