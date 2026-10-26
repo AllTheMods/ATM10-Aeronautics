@@ -105,7 +105,6 @@
 				"0E9CE6241CDBC420"
 				"32ECD93A8F2FAB8F"
 				"47043AF7D1FABC43"
-				"51538F4DCE24E3E7"
 				"01EC5DB1A4A25B0B"
 				"69F7A0DE8D70AC44"
 				"2837E05AD0B67189"
@@ -359,29 +358,6 @@
 			}]
 			x: -1.5d
 			y: 4.0d
-		}
-		{
-			id: "51538F4DCE24E3E7"
-			rewards: [
-				{
-					exclude_from_claim_all: true
-					id: "5A5A4DD01955CC6D"
-					table_id: 487623848494439020L
-					type: "random"
-				}
-				{
-					id: "608E5E2EB389DDA0"
-					type: "xp"
-					xp: 10
-				}
-			]
-			tasks: [{
-				id: "6A1E21A5F5AE29A8"
-				item: { count: 1, id: "multipiston:multipistonblock" }
-				type: "item"
-			}]
-			x: 3.0d
-			y: 2.5d
 		}
 		{
 			id: "0E9CE6241CDBC420"
