@@ -1,0 +1,12 @@
+{
+    "t.clc.opensubconfig": "Abrir Configuração",
+    "t.clc.save": "Salvar",
+    "t.clc.cancel_discard": "Descartar",
+    "t.clc.quit_config": "Alterações Não Salvas",
+    "t.clc.quit_config_sure": "Você tem alterações de config não salvas. Tem certeza de que deseja descartá-las?",
+    "t.clc.quit_discard": "Sair e Descartar",
+
+    "cl.buttons.edit": "Editar",
+    "cl.buttons.add_entry": "+ Adicionar Entrada",
+    "cl.buttons.entry": "Entrada %s"
+}

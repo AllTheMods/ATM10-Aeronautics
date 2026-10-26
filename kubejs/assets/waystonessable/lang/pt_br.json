@@ -1,0 +1,6 @@
+{
+    "waystones.groups.sable": "Subníveis do Sable",
+    "gui.waystonessable.waystone_group.sable": "Subníveis do Sable",
+    "commands.waystones.activateall.success.single": "%s obeliscos foram ativados para %s",
+    "commands.waystones.activateall.success.multiple": "%s obeliscos foram ativados para %s jogadores"
+}

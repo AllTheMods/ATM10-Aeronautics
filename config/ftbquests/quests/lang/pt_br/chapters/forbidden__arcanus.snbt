@@ -14,7 +14,6 @@
 	quest.050CD33E92601651.title: "&6Forja &l&3Nível 2"
 	quest.07BEE6FEC14765DC.quest_desc: ["Receita bem simples, precisando de Argila, Ferro, Bolas de Slime e mais...\\n\\nMagnetitas são melhores para saquear, Mods adicionam estas em Poças de Saque por todo o &c&lNether&r, então não crie uma, apenas encontre uma!\\n\\nCera é um novo Item adicionado pelo &6&lForbidden \\& Arcanus&r, que é uma mistura de Garrafa de Mel e Bolas de Slime!\\n\\nVocê pode usá-la em um &6Pedestal de Pedra Sombria&r para obter &7Pedestais Magnetizados&r que funcionam em conjunto com Funis (e Itens semelhantes a Funis, como Canos).\\n\\nVocê também pode usá-la com Botas para aumentar a proximidade com que os Itens podem ser arrastados para o seu Inventário!"]
 	quest.092BB595F75D5536.quest_desc: ["Bem-vindo ao &6&lForbidden \\& Arcanus&r!\\n\\nPara começar este Mod, precisaremos começar a minerar no subsolo... bem no fundo do subsolo.\\n\\nComo no Nível Y 1 e abaixo."]
-	quest.092BB595F75D5536.quest_subtitle: "Hora de Forjar!"
 	quest.092BB595F75D5536.title: "&6&lForbidden \\& Arcanus"
 	quest.0AC8FE3B59D1B09D.quest_desc: ["O Apanhador Quântico é uma Ferramenta muito útil para mover Mobs.\\n\\nSimplesmente clique com o botão direito em um Mob para \"capturá-los\", depois clique com o botão direito novamente para soltá-los.\\n\\nVocê precisará de uma quantidade definida de &bAureal&r em você para usá-lo, isso depende da Vida do Mob. Mais Vida, mais &bAureal&r necessário! Não custará nada para soltar Mobs, isso é de graça.\\n\\nAh, espere, eu provavelmente deveria te dizer como Criá-lo! Você precisará de um &7Núcleo Quântico&r que é criado com &7Runas&r, &cPó de Mundabitur&r e &8Sílex&r!\\n\\nOs Fragmentos de Spawner são drops ao Minerar um Spawner sem Toque Suave, então quebrará o Spawner."]
 	quest.0BCC79C1D002F532.quest_desc: ["Para transformar o &bPó de Cristal Arcano&r em &bLíquido Aureal&r, precisaremos de um líquido! Na verdade, precisaremos do Líquido... que é &9Água&r!\\n\\nBasta canalizar &9Água&r de uma &9Pia&r, é infinita."]
@@ -25,7 +24,7 @@
 		"Uma das &lMultiblocos&r mais importantes, principalmente porque precisamos dela para os outros &lMultiblocos&r.\\n\\nAqui você vai precisar de &bEntrada de Fluido&r (cada &bEntrada&r só pode conter 1 tipo de &bFluido&r, então você vai precisar de várias), &cEscotilhas de Entrada de Energia&r, e Escotilhas de Entrada e Saída de &eItens&r.\\n\\nUsando essas Escotilhas podemos inserir todos os &eItens&r, &bFluidos&r e &cEnergia&r e ela fabricará nossos Itens, como os outros &5Controladores de Multiblocos&r!\\n\\nOu fabricar nossos Itens necessários para as &6Partes Estelares&r! Você vai precisar de muito &4Sangue&f, &bAureal&f, Almas e &cEnergia&r para eles!"
 		"{@pagebreak}"
 		"{image:atm:textures/questpics/chap3/creative_forge1.png width:150 height:100 align:center}"
-		"A primeira camada é bem simples. Apenas alguns &9Blocos de Pedra Sombria Polida &fe &9Escadas&r. Junto com os &7Blocos de Runa&r e &6Pedra Sombria Polida Arcana&r. Ah, quase esqueci do bloco mais importante! O &5Bloco da Forja Nível 5&r"
+		"A primeira camada é bem simples. Apenas alguns &9Blocos de Pedra Sombria Polida &fe &9Escadas&r. Junto com os &7Blocos de Runa&r e &6Pedra Sombria Polida Arcana&r. Ah, quase esqueci do bloco mais importante! O &5Bloco da Forja&r"
 		"{image:atm:textures/questpics/chap3/creative_forge2.png width:150 height:100 align:center}"
 		"A próxima camada terá mais &9Pedra Sombria&r em &9Blocos&f, &9Escadas&f e &9Lajes&r e até &6Pedra Sombria Polida Talhada Dourada&r e &6Pedra Sombria Arcana Polida Talhada&r. Não podemos esquecer dos 4 &bObeliscos de Cristal Arcano&r!"
 		"{image:atm:textures/questpics/chap3/creative_forge3.png width:150 height:100 align:center}"
@@ -45,6 +44,7 @@
 		"\"Em seguida, coloque nossa Mesa de Ferraria na &6Pedra Sombria Polida Talhada Dourada&r interna e bata nela com &cPó de Mundabitur&r, você obterá a &6&lForja de Hefesto&r!\\n\\nPor último, coloque nossos &6Pedestais de Pedra Escura&r em cima das 8 &6Pedra Sombria Talhada Polida&r externas!\""
 	]
 	quest.0FD638380EECFFBD.title: "Construindo a &6&lForja"
+	quest.10E70F49C2115F93.quest_desc: ["Esta missão foi criada pela &6Equipe do AllTheMods&r ou por um &2Colaborador da Comunidade&r para uso nos Modpacks AllTheMods.\\n\\nComo todos os pacotes &6AllTheMods&r estão sob a licença &eTodos os Direitos Reservados&r, esta missão não pode ser usada em nenhum pacote público não lançado pela &6Equipe AllTheMods&r sem permissão explícita.\\n\\nEsta missão está oculta intencionalmente; se você está vendo isso, está no modo de edição."]
 	quest.12256A90B1CE3F90.quest_desc: ["Embora sim, você possa usar Pedreiras ou Mineradores do Vazio para obter os Minérios, mas se você realmente quer a melhor maneira de automatizar &bCristais Arcanos&r, então você precisará de &6&lAbelhas&r!\\n&bAbelhas de Diamante&r para ser mais exato. Simplesmente alimente uma &bAbelha de Diamante&r com um &bBloco de Cristais Arcanos&r e elas se tornarão uma &bAbelha Arcanus&r!\\n\\n&bAbelhas Arcanus&r precisam de &bBlocos de Cristais Arcanos&r como Blocos de Florescência também, então elas farão &bFavo Arcanus&r! Que pode ser transformado em &bCristais Arcanos&r."]
 	quest.12256A90B1CE3F90.title: "Automatizando &bCristais Arcanos"
 	quest.15849165CA8C00F9.quest_desc: [
@@ -170,7 +170,7 @@
 		"Se estiver tendo dificuldades para encontrar Almas, talvez queira considerar o encantamento Saque de Alma para sua espada. Matar mobs com esse encantamento ocasionalmente fará aparecer Almas."
 	]
 	quest.580148D1141446A6.title: "Almas Perdidas"
-	quest.5A6FF0D4BA894306.quest_desc: ["A garota-propaganda do &6&lForbidden \\& Arcanus&r, a &aStella Eterna&r. \\n\\nPor 1 Lingote de &6Allthemodium&r, 3 &aEsferas Expetrificadas&r e uma &2Pedaço de Estelarito&r, podemos fazer um dos Itens mais superpoderosos deste Modpack! \\n\\nVocê pode usar a &aStella Eterna&r com um Item e um Modificador de Aplicação de Item para fazer os Itens perderem sua Durabilidade. Não, espere, quero dizer, perderem sua necessidade de Durabilidade! Basicamente, Itens Indestrutíveis. \\n\\nIsso pode ser usado em quase todos os Itens com Durabilidade, desde &bMachados de Diamante&r, até Varas de Pesca, e até mesmo &eArmadura de Pedra Luminosa Refinada&r! \\n\\nExistem algumas limitações, só funciona com Itens com Durabilidade, não com usos: como Cristais de Infusão ou Energia: como a Meka-Tool!"]
+	quest.5A6FF0D4BA894306.quest_desc: ["A garota-propaganda do &6&lForbidden \\& Arcanus&r, a &aStella Eterna&r. \\n\\nPor 1 Lingote de &6Allthemodium&r, 3 &aEsferas Expetrificadas&r e uma &2Pedaço de Estelarito&r, podemos fazer um dos Itens mais superpoderosos deste Modpack! \\n\\nVocê pode usar a &aStella Eterna&r com um Item e um Modificador de Aplicação de Item para fazer os Itens perderem sua Durabilidade. Não, espere, quero dizer, perderem sua necessidade de Durabilidade! Basicamente, Itens Indestrutíveis. \\n\\nIsso pode ser usado em quase todos os Itens com Durabilidade, desde &bMachados de Diamante&r, até Varas de Pesca, e até mesmo &eArmadura de Pedra Luminosa Refinada&r! \\n\\nExistem algumas limitações, só funciona com Itens com Durabilidade, não com usos: como Cristais de Infusão ou Energia: como a Ferramenta-Meka!"]
 	quest.5A6FF0D4BA894306.title: "&aStella Eterna"
 	quest.5CD0E6F349F2F32D.quest_desc: ["Não tenha medo, isso não é um bicho-papão, é uma Edelwood totalmente crescida! \\n\\nA Árvore terá um Tronco de Edelwood Esculpido no topo e Galhos de Edelwood saindo dela, estes podem ser quebrados para obter Varetas de Edelwood. \\n\\nOs Troncos são ocos por dentro, espaço semelhante a um Caldeirão. Curiosamente, também pode conter Água como um Caldeirão!"]
 	quest.5ED0DA95BAE43D88.quest_desc: ["O último dos Prismas, bem, este é um &dCristal&r, mas você entendeu a ideia! \\n\\nPrimeiro, você precisará de uma Relíquia &ePacto Divino&r, que é encontrada em &b&lO Outro&r. \\n\\nEntão, você precisará de &3Fragmentos de Pérola do End&r, &5Ametista&r e Quartzo do Nether. Não se preocupe, fica mais difícil! \\n\\nAgora precisaremos de todos os tipos de Alma. Eu ensinei como obter Almas e &9Almas Corrompidas&r em outras Missões, agora vou ensinar sobre &dAlmas Encantadas&r. \\n\\nEncontre uma Alma Perdida voando pelo seu mundo, então jogue uma &bPoção de Aureal Arremessável&r nela! Então, ela se tornará uma &dAlma Perdida Encantada&r, mate-a! \\n\\nCom isso, você agora pode fazer o &dCristal&r, que pode ser aplicado a Ferramentas e Armaduras para dar-lhes Soulbound. Isso significa que quando você morrer, você reaparecerá com esses Itens em seu Inventário ainda."]
@@ -181,13 +181,13 @@
 	quest.63C95FDAA447CA47.quest_desc: ["A única receita que precisa do &3&lNível 2&r, o &7Prisma do Pisão Terrestre&r! \\n\\nVocê precisará de &7Dripstone&r, &7Dripstone&r e &8Sílex&r, juntamente com um &bBloco de Diamante&r! \\n\\nComo os outros Prismas, este precisará da Relíquia de &3Elementarium&r para ser feito. \\nComo o &cPrisma Ígneo&r, o &7Prisma do Pisão Terrestre&r pode ser usado com Ferramentas. Essas Ferramentas poderão minerar em uma Área de 3x3, em vez de apenas 1 Bloco minerado, elas minerarão 9!"]
 	quest.63C95FDAA447CA47.title: "&7Prisma do Pisão Terrestre"
 	quest.66FE4552E09B5EFF.quest_desc: ["Os Prismas são importantes para muitas das receitas do &6&lForbidden \\& Arcanus&r e outros Mods mais tarde! \\n\\nPara criá-los, precisaremos de &3Elementarium&r, que é encontrado em Templos da Selva, Pirâmides do Deserto e Ruínas Subaquáticas. \\n\\nAcho que seria mais fácil nos dizer onde você não pode encontrá-lo!"]
-	quest.66FE4552E09B5EFF.title: "&3Elementarium"
+	quest.66FE4552E09B5EFF.title: "&3Elementário"
 	quest.67258590FA14BE44.quest_desc: ["Para 250mB de &9Água&r e 2 &bPó de Cristal Arcano&r, no &b&lCrisol Rúnico&r, podemos obter 250mB de &bLíquido Aureal&r! \\n\\nVocê precisará de 1000 de &dFonte Liquefeita&r para começar, no entanto..."]
 	quest.67258590FA14BE44.title: "&bLíquido Aureal"
 	quest.67CCEFEBA4D79429.quest_desc: ["O &ePacto Divino&r é o mais difícil de obter, você precisará procurar em Vilas de Piglins e Pirâmides Ancestrais em &b&lO Outro&r para encontrá-los! \\n\\nÉ usado para criar o Cristal de Vínculo de Alma e os Multiblocos de Fim de Jogo!"]
 	quest.67CCEFEBA4D79429.title: "&ePacto Divino"
 	quest.692183ACBB2AABF7.quest_desc: ["Relíquias são achados raros pelo seu Mundo &2&lMinecraft&r! \\n\\nElas podem ser usadas em sua &6&lForja&r, nos quadrados ao redor do slot central, estes se abrem mais à medida que você melhora os Tiers! \\n\\nOu você pode usá-las no &l&bClibano&r. \\n\\nAlgumas são apenas do Modo Criativo, não se preocupe, sabemos o quanto você ama seus Itens OP e estaremos procurando maneiras de adicioná-los!"]
-	quest.692183ACBB2AABF7.title: "&lRelíquias"
+	quest.692183ACBB2AABF7.title: "&lRelics"
 	quest.6BA2BC09E23B34A9.quest_desc: [
 		"Esta precisa de mais uma &9Pedra Sombria Polida Talhada&r, desta vez com 4 &7Runas&r e 4 &2Pedaços de Stellarite&r. \\n\\nEsta &6&lForja de Hefesto&r é a última do mod básico &6&lForbidden \\& Arcanus&r. \\n\\nClaro, ela tem o resto das Receitas e todos os espaços para Relíquias agora estão abertos!"
 		"{image:atm:textures/questpics/forbidden/forbidden_tier4.png width:100 height:100 align:center}"
@@ -202,17 +202,17 @@
 		"{@pagebreak}"
 		"{image:atm:textures/questpics/chap3/creative_crucible1.png width:100 height:100 align:center}"
 		"A primeira camada do &l&bCrisol Rúnico&r tem um &6Pedra Sombria Polida Talhada Dourada&r no meio, ao redor dela está &9Pedra Sombria Polida&r. Depois, nas laterais, teremos &9Escadas de Pedra Sombria Polida&r viradas para cima, com &7Blocos de Runa&r nos cantos."
-		"{image:atm:textures/questpics/chap3/creative_crucible1.png width:125 height:100 align:center}"
+		"{image:atm:textures/questpics/chap3/creative_crucible2.png width:100 height:100 align:center}"
 		"Bem no meio, colocaremos um &bCristal Arcano&r com &9Escadas de Pedra Sombria Polida&r ao redor. Nas laterais, haverá &6Pilares Arcanos de Pedra Sombria Polida&r, &9Pedra Sombria Polida&r que será substituída por Escotilhas, e &6Pedra Sombria Polida Arcana&r."
-		"{image:atm:textures/questpics/chap3/creative_crucible3.png width:125 height:100 align:center}"
+		"{image:atm:textures/questpics/chap3/creative_crucible3.png width:100 height:100 align:center}"
 		"Apenas coloque &bBlocos de Cristal Arcano&r em cada canto e encerre o dia!"
-		"{image:atm:textures/questpics/chap3/creative_crucible4.png width:125 height:100 align:center}"
+		"{image:atm:textures/questpics/chap3/creative_crucible4.png width:100 height:100 align:center}"
 		"Finalmente, com um bloco de espaço, coloque o &7Injetor Quântico&r acima do &bBloco de Cristal Arcano&r do meio."
 		"{image:atm:textures/questpics/chap3/creative_crucible5.png width:150 height:100 align:center}"
-		"{image:atm:textures/questpics/chap3/creative_crucible6.png width:150 height:100 align:center}"
-		"Os &9blocos de Pedra Sombria Polida&r na camada do meio são onde colocaremos nossos Escotilhas! Se você não quiser fazer tudo isso manualmente, pode se agachar e clicar com o botão direito no Controlador do &b&lCrisol Rúnico&r para construir automaticamente o Multibloco para você."
+		"Os &9blocos de Pedra Sombria Polida&r na camada do meio são onde colocaremos nossas Escotilhas! Se você não quiser fazer tudo isso manualmente, pode se agachar e clicar com o botão direito no Controlador do &b&lCrisol Rúnico&r para construir automaticamente o Multibloco para você."
 	]
 	quest.798B592E956AD28C.title: "&b&lCrisol Rúnico&r"
-	task.3DBE6E5DFF071416.title: "&eVisite o Bioma: &cFloresta Sombria"
 	task.6B772FA03562537D.title: "Vá para a camada Y1"
+	quest.092BB595F75D5536.quest_subtitle: "Hora de Forjar!"
+	task.3DBE6E5DFF071416.title: "&eVisite o Bioma: &cFloresta Sombria"
 }

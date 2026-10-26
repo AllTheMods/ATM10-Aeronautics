@@ -9,10 +9,7 @@
 	quest.0CC0632E8276C787.quest_desc: ["Coloque a Plataforma de Teleporte no &l&cNether&r para ir para &b&lO Outro&r."]
 	quest.0CC0632E8276C787.title: "&c&lO Nether"
 	quest.111E4ACF7D570EE8.quest_desc: [
-		"Somente a estrutura mais resistente do &2&lMinecraft Vanilla&r. Então é claro que é lá que você terá que procurar por &6Allthemodium&r!\\n\\nVocê pode encontrar facilmente o minério nas paredes das cavernas ao redor das Cidades Ancestrais, ele é Luminoso, então será fácil de ver — só é muito raro! Você sempre o verá na superfície exposta ao ar.\\n"
-		""
-		"Desligue sua Visão Noturna para encontrar os minérios luminosos com mais facilidade. Além disso, esse minério também poderá encontrá-lo em qualquer &5Bioma das Profundezas Sombrias&r"
-		""
+		"Somente a estrutura mais resistente do &2&lMinecraft Vanilla&r. Então é claro que é lá que você terá que procurar por &6Allthemodium&r!\\n\\nVocê pode encontrar o Minério nas paredes das Cavernas ao redor das Cidades Antigas — ele é brilhante, então será fácil de ver, só muito raro!\\n\\nVocê também poderá localizá-lo em qualquer &5Bioma das Profundezas Sombrias&r."
 		"{image:atm:textures/questpics/allthemodium/all_city.png width:200 height:100 align:center}"
 	]
 	quest.111E4ACF7D570EE8.title: "Cidade Ancestral"
@@ -90,7 +87,7 @@
 	quest.5AAF6CA41209B365.title: "&3Ferramentas de Vibranium"
 	quest.5B46B5BF4ADB2BE9.quest_desc: ["Sim, pode fazer caminhos, não se preocupe!"]
 	quest.5B46B5BF4ADB2BE9.title: "&6Pá de &5Liga de &3Allthemodium"
-	quest.5BA986D7928BF09F.quest_desc: ["O Piglich é um Chefe adicionado pelo &6&lAllthemodium&r. \\n\\nEle tem 1000 de Vida e atualmente não tem ataques, mas confie em mim, quando tiver, eles serão devastadores! \\n\\nQuando morto, ele dropará seu Coração, que será necessário para Ligas e a Estrela ATM! \\n\\n(Procure maneiras de farmá-los, como com HNN ou EnderIO!)"]
+	quest.5BA986D7928BF09F.quest_desc: ["O Piglich é um Chefe adicionado pelo &6&lAllthemodium&r. \\n\\nEle tem 9.999 Corações e atualmente não tem ataques, mas confie em mim, quando tiver, eles serão devastadores! \\n\\nQuando morto, ele dropará seu Coração, que será necessário para Ligas e a Estrela ATM! \\n\\n(Procure maneiras de farmá-los, como com HNN ou EnderIO!)"]
 	quest.5BA986D7928BF09F.title: "Chefe Piglich"
 	quest.66039B738CF0718A.quest_desc: ["&3Vibranium&r combinado com &6Allthemodium&r!"]
 	quest.66039B738CF0718A.title: "Lingote de Liga de &3Vibranium&r - &6Allthemodium&r"
