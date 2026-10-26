@@ -3320,11 +3320,8 @@
 					count: 3
 					id: "727528AFAC25F78B"
 					item: {
-						components: {
-							"ftbquests:missing_item": "the_bumblezone:honey_bucket"
-						}
 						count: 1
-						id: "ftbquests:missing_item"
+						id: "create:honey_bucket"
 					}
 					type: "item"
 				}
